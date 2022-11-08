@@ -1,0 +1,89 @@
+#EXTM3U
+#EXTINF:-1,Win Sports HD
+http://45.232.211.196:1080/play/a043
+#EXTINF:-1,Win Sports+ HD
+http://45.232.211.196:1080/play/a05r
+#EXTINF:-1,Win Sports+ HD
+http://177.234.242.242:50032/play/a00w/index.m3u8
+#EXTINF:-1, Win
+http://177.93.52.26:8000/play/a026
+#EXTINF:-1, WIN SPORTS
+http://181.129.186.36:8089/play/a00q/index.m3u8
+#EXTINF:-1, Win Sports+ HD
+http://190.27.172.234:25000/play/a0b8
+#EXTINF:-1,I-Win Sports + HD (CO) Encoder
+http://bgapp.live/101/tv30.php?c=Mzg1MzIN&token=blackghhost&f=.m3u8|User-agent=UniversoSport
+#EXTINF:-1, Win Sports+ HD
+http://190.27.172.225:25000/play/a0b8
+
+
+http://45.232.211.196:1080/play/a025
+#EXTINF:-1,ESPN
+http://45.232.211.196:1080/play/a028
+#EXTINF:-1,ESPN 2
+http://45.232.211.196:1080/play/a00p
+#EXTINF:-1,ESPN 2 HD
+http://45.232.211.196:1080/play/a04l
+#EXTINF:-1,ESPN 2 Latin
+http://45.232.211.196:1080/play/a027
+#EXTINF:-1,ESPN 2 Latin HD
+http://45.232.211.196:1080/play/a045
+#EXTINF:-1,ESPN 3
+http://45.232.211.196:1080/play/a01a
+#EXTINF:-1,ESPN 3 HD
+http://45.232.211.196:1080/play/a04i
+#EXTINF:-1,ESPN 4
+http://45.232.211.196:1080/play/a026
+#EXTINF:-1,ESPN 4 HD
+http://45.232.211.196:1080/play/a051
+#EXTINF:-1,ESPN EXTRA HD
+http://45.232.211.196:1080/play/a05i
+#EXTINF:-1,ESPN HD
+http://45.232.211.196:1080/play/a058
+#EXTINF:-1, Win Sports+ HD
+http://190.27.172.225:25000/play/a0b8
+#EXTINF:-1, Win Sports+ HD
+http://190.27.172.234:25000/play/a0b8
+
+#EXTINF:-1,FOX Sports 2 HD
+http://45.232.211.196:1080/play/a052
+#EXTINF:-1,FX
+http://45.232.211.196:1080/play/a00z
+#EXTINF:-1,FX HD
+http://45.232.211.196:1080/play/a057
+#EXTINF:-1,Fox Sports 1
+http://45.232.211.196:1080/play/a00h
+#EXTINF:-1,Fox Sports 2
+http://45.232.211.196:1080/play/a02h
+#EXTINF:-1,Fox Sports 3
+http://45.232.211.196:1080/play/a02i
+#EXTINF:-1,Fox Sports 3 HD
+http://45.232.211.196:1080/play/a04j
+#EXTINF:-1,GOL TV
+http://45.232.211.196:1080/play/a029
+
+#EXTINF:-1,ES: LIGA DE CAMPEONES SD
+http://16493954111165359.niceapy.xyz:80/play/miguelangel/miguelangel/165359.ts
+#EXTINF:-1,ES: LIGA DE CAMPEONES 4K
+http://16493954111282468.niceapy.xyz:80/play/miguelangel/miguelangel/282468.ts
+#EXTINF:-1,ES: LIGA DE CAMPEONES 2 FHD
+http://16493954111165365.niceapy.xyz:80/play/miguelangel/miguelangel/165365.ts
+http://16493954111282462.niceapy.xyz:80/play/miguelangel/miguelangel/282462.ts
+#EXTINF:-1,ES: MOVISTAR FORMULA 1 FHD
+http://16493954111165418.niceapy.xyz:80/play/miguelangel/miguelangel/165418.ts
+#EXTINF:-1,ES: GOL TV HD
+http://16493954111165449.niceapy.xyz:80/play/miguelangel/miguelangel/165449.ts
+#EXTINF:-1,ES: M LALIGA FHD
+http://16493954111165385.niceapy.xyz:80/play/miguelangel/miguelangel/165385.ts
+#EXTINF:-1,ES: M LALIGA HD
+http://16493954111165392.niceapy.xyz:80/play/miguelangel/miguelangel/165392.ts
+#EXTINF:-1,ES: M LALIGA SD
+http://16493954111165393.niceapy.xyz:80/play/miguelangel/miguelangel/165393.ts
+#EXTINF:-1,ES: LA LIGA FHD (H 265)
+http://16493954111262413.niceapy.xyz:80/play/miguelangel/miguelangel/262413.ts
+#EXTINF:-1,ES: M LALIGA MULTI 2 HD
+http://16493954111165398.niceapy.xyz:80/play/miguelangel/miguelangel/165398.ts
+#EXTINF:-1,ES: MOVISTAR DEPORTES 1 FHD
+http://16493954111165457.niceapy.xyz:80/play/miguelangel/miguelangel/165457.ts
+#EXTINF:-1,ES: MOVISTAR DEPORTES 1 SD
+http://16493954111165459.niceapy.xyz:80/play/miguelangel/miguelangel/165459.ts
